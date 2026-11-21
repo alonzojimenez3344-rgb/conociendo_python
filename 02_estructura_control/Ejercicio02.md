@@ -1,4 +1,4 @@
-# Ejercicio 02 — Salario neto del obrero
+A# Ejercicio 02 — Salario neto del obrero
 
 Un obrero trabaja 8 horas diarias por quincena y le pagan a 50 pesos la hora.
 De su salario tiene una compensación del 2 % y un descuento del 1.5 % del IMSS
