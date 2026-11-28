@@ -9,7 +9,7 @@ cálculos condicionales.
 
 | # | Ejercicio | Archivo |
 |---|-----------|---------|
-| 01 | Máximo de cinco números | [ejercicio_01.md](Ejercicio01.md) |
+| 01 | Máximo de cinco números | [ejercicio_01.md](../entregas/AJO/SOLUCIONES-02/Soluciones%202/Ejercicio01.md) |
 | 02 | Salario neto del obrero | [ejercicio_02.md](Ejercicio02.md) |
 | 03 | Mayor de dos números | [ejercicio_03.md](Ejercicio03.md) |
 | 04 | Precio de bates (10 o más vs. menos de 10) | [ejercicio04.md](Ejercicio04.md) |
